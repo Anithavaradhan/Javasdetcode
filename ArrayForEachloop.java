@@ -48,3 +48,4 @@ for(String i:a)
 /* 1) Declare an Array
    2)Stroe elements in to Array
    3)Read elements from an Array */
+/* Bala */
